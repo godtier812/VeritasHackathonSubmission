@@ -1,4 +1,4 @@
-# FoldFlux: an AI second opinion on uncertain BRCA1 mutations
+# FoldFlux: a spell checker for proteins, graded against the lab
 
 **Track:** Health
 **Team:** Ashrith Repaka, Shaunak Acharya

@@ -524,7 +524,7 @@ TEMPLATE = """<!doctype html>
 <main id="main">
 <section class="hero" id="top">
   <h1>A spellchecker for proteins, graded against the lab.</h1>
-  <p class="lead">BRCA1 is written in {{protein_length}} letters, one per amino acid. We asked a protein language model which single-letter changes look like typos, then checked its calls against {{n_lab}} lab measurements.</p>
+  <p class="lead">BRCA1 is the best-known breast and ovarian cancer gene. It is written in {{protein_length}} letters, one per amino acid. We asked a protein language model which single-letter changes look like typos, then checked its calls against {{n_lab}} lab measurements.</p>
   {{hero_seq}}
   <p class="cap">The first 101 letters of BRCA1. The red underline marks how harmful the model finds changes at each position, on average across all 19 possible swaps. Darker means more harmful, compared with the other positions here. Then C61G: the C at position 61 becomes a G. {{c61g_line}}</p>
   <div class="hero-cta">{{cta}}<a class="link" href="#results">See the results</a></div>

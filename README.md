@@ -9,7 +9,7 @@
 
 ## The problem
 
-A genetic counselor sits with a patient whose BRCA1 test came back as a "variant of uncertain significance": a protein change nobody can yet call harmful or harmless. Most genes have no lab map, so counselors lean on computer predictions and need to know how far to trust them.
+BRCA1 is the best-known breast and ovarian cancer gene. A genetic counselor sits with a patient whose BRCA1 test came back as a "variant of uncertain significance": a protein change nobody can yet call harmful or harmless. Most genes have no lab map, so counselors lean on computer predictions and need to know how far to trust them.
 
 ## What we built
 

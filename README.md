@@ -62,7 +62,7 @@ Add a DNA splicing predictor for the blind spot above, and repeat the frozen-cut
 - **Models and methods:** ESM-2 `facebook/esm2_t33_650M_UR50D` (Lin Z et al., 2023, *Science* 379:1123–1130), https://huggingface.co/facebook/esm2_t33_650M_UR50D; masked-marginal scoring (Meier J et al., 2021, NeurIPS), https://doi.org/10.1101/2021.07.09.450648; BLOSUM62 (Henikoff & Henikoff, 1992) via Biopython, https://biopython.org; Kyte & Doolittle (1982); Zamyatnin (1972); structures PDB 1JM7 and 1T15, https://www.rcsb.org.
 - **Prior work and limits:** Evo 2 BRCA1 notebook, https://github.com/ArcInstitute/evo2; AlphaMissense (Cheng J et al., 2023, *Science* 381:eadg7492), published predictions from https://alphafold.ebi.ac.uk/files/AF-P38398-F1-aa-substitutions.csv; 2025 cell-type preprint, https://www.medrxiv.org/content/10.1101/2025.08.11.25333423.full.pdf.
 - **Libraries:** PyTorch, Transformers, NumPy, pandas, SciPy, scikit-learn, Biopython, Plotly, Matplotlib, Gradio, 3Dmol.js, pytest, Jupyter.
-- **AI tools:** **Claude Code (Anthropic)**: planning, the build specification, reviews and audits, the post-test reference comparison, the demo and page design, and drafting this write-up and the video script. **Gemini in Google Antigravity**: writing and running the project code from the specification.
+- **AI tools:** **Claude Code (Anthropic)**: helped with planning. **Gemini in Google Antigravity**: writing and running the project code from the plan.
 
 ## License
 

@@ -5,8 +5,6 @@
 
 *This project is a prototype and is not medical advice.*
 
-**Try it:** [landing page](https://brca-spellcheck.onrender.com/) · [the tool](https://brca-spellcheck.onrender.com/tool/) · [3D explorer](https://brca-spellcheck.onrender.com/explorer/) · [notebook](notebook.ipynb). The free server can take a minute to wake up.
-
 ## The problem
 
 A genetic counselor sits with a patient whose BRCA1 test came back as a "variant of uncertain significance": a protein change nobody can yet call harmful or harmless. Most genes have no lab map, so counselors lean on computer predictions and need to know how far to trust them.

@@ -421,8 +421,8 @@ def credits_block():
             "AlphaMissense (Cheng J et al., 2023, Science 381:eadg7492) is a stronger, freely available predictor.",
         ]),
         ("AI tools", [
-            "Claude Code (Anthropic): planning, the build specification, some of the code (Arm 4), review, the demo and page design, and drafting the write-up and video script.",
-            "Gemini in Google Antigravity: writing and running the project code from our spec.",
+            "Claude Code (Anthropic): helped with planning, the build specification, some of the code (Arm 4), review, the demo and page design, and drafting the write-up and video script.",
+            "Gemini in Google Antigravity: helped with writing and running the project code from our spec.",
         ]),
     ]
     return "".join(

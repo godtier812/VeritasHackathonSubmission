@@ -386,7 +386,7 @@ def run_writeup() -> int:
     )
     decision = (
         "\n## Exploratory Arm 4 (Human Decision, After the Test Run)\n\n"
-        "- **Arm 4 (`src/arm4.py`, written by Claude Code):** At a human's request, added an "
+        "- **Arm 4 (`src/arm4.py`, written with help from Claude Code):** At a human's request, added an "
         "exploratory arm scored with ESM-C 600M (`biohub/ESMC-600M`) through the same "
         "hide-a-letter code as `arm2`. The candidate (ESM-C alone, or the mean of the ESM-2 and "
         "ESM-C scores) and the 90%-catch cutoff were chosen on the start region only, frozen in "
